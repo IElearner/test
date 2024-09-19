@@ -4,3 +4,4 @@ print(tests.items())
 for testname, test in tests.items():
     print(test)
 
+print('2')
